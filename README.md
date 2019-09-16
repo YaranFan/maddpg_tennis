@@ -1,7 +1,7 @@
 # Collaboration and Competition - MADDPG
 This project uses Multi-Agent Deep Deterministic Policy Gradients (MADDPG) to solve the Tennis environment (Unity MLAgents).
 
-The GIF below shows two trained agents that can play tennis and try to keep the ball in play.
+The GIF below shows two agents trained with this repo's solution that can play tennis and try to keep the ball in play.
 
 ![Trained_Agent](tennis_trained_agents.gif)
 
