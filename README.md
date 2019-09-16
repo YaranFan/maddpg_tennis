@@ -18,6 +18,8 @@ We are working with the [Tennis](https://github.com/Unity-Technologies/ml-agents
   * Vector Observation space: 8 variables corresponding to position and velocity of ball and racket. 
   * Vector Action space: (Continuous) Size of 2, corresponding to movement toward net or away from net, and jumping.
   * Visual Observations: None
+  
+The environment is considered solved when the average reward of the winner’s reward over 100 episodes is 0.5+.
 
 ## Getting Started
 1. Clone this repository.
